@@ -21,9 +21,3 @@ reference, in case you get stuck or things don't work as intended.
 To set-up a local development environment for changing the workshop, please follow the instructions in
 [local development](docs/LOCAL_DEVELOPMENT.md) file.
 
-## Contributing
-Contributions are more than welcome. Please read the [code of conduct](CODE_OF_CONDUCT.md) and the
-[contributing guidelines](CONTRIBUTING.md).
-
-## License
-This library is licensed under the MIT-0 License. See the [license](LICENSE) file.
